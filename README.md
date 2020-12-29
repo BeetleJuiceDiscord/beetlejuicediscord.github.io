@@ -1,23 +1,23 @@
 ### Mohanjot Selfbot | Command List
 
-#jsinject
+jsinject      | Inject any code into Chrome console  | ,jsinject (your code)
+ 
+vanity        | Generate a fake Vanity URL           | ,vanity
 
-#vanity
+ddos          | Send a DDoS attack to any IP         | ,ddoshelp
 
-#ddos
+email         | Check if an email has been breached  | ,email (email)
 
-#email
+hoookdelete   | Delete a Discord webhook             | ,hookdelete (webhook URL)
 
-#hoookdelete
+ascii         | Convert any text to ascii            | ,ascii (text)
 
-#ascii
+iplookup      | See details of an IP                 | ,iplookup (IP)
 
-#iplookup
+clearmessages | Purge chat messages                  | ,clearmessages
 
-#clearmessages
+checktoken    | Check if a discord token is valid    | ,checktoken (token)
 
-#checktoken
+nmap          | Port scan any IP                     | ,nmap (IP)
 
-#nmap
-
-#ytdownload
+ytdownload    | Download a Youtube video             | ,ytdownload (video URL)
