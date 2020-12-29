@@ -23,3 +23,5 @@ nmap          | Port scan any IP                     | ,nmap (IP)
 ytdownload    | Download a Youtube video             | ,ytdownload (video URL)
 
 parse         | Parse a user agent                   | ,parse (user agent)
+
+disboard      | Search discord for a specific keyword| ,disboard (keyword)
